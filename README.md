@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y3adhgp7tmc4s1aw?svg=true)](https://ci.appveyor.com/project/Alex-m18/ahj-homeworks-forms-list)
+
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
